@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "nombre": "Zapatillas Runner",
+    "precio": 25990,
+    "stock": 12,
+    "imagen": "img/zapatillas.avif"
+  },
+  {
+    "id": "2",
+    "nombre": "Jeans Regular",
+    "precio": 12990,
+    "stock": 8,
+    "imagen": "img/jeans.webp"
+  },
+  {
+    "id": "3",
+    "nombre": "Polera Básica",
+    "precio": 5990,
+    "stock": 25,
+    "imagen": "img/polera.webp"
+  },
+  {
+    "id": "4",
+    "nombre": "Chaqueta Parka",
+    "precio": 39990,
+    "stock": 5,
+    "imagen": "img/parka.webp"
+  },
+  {
+    "id": "5",
+    "nombre": "Gorro Invierno",
+    "precio": 4990,
+    "stock": 30,
+    "imagen": "img/gorro.avif"
+  },
+  {
+    "id": "6",
+    "nombre": "Calcetines Pack",
+    "precio": 3990,
+    "stock": 18,
+    "imagen": "img/calcetines.webp"
+  },
+  {
+    "id": "7",
+    "nombre": "Mochila Urbana",
+    "precio": 21990,
+    "stock": 10,
+    "imagen": "img/mochila.webp"
+  },
+  {
+    "id": "8",
+    "nombre": "Polerón Hoodie",
+    "precio": 18990,
+    "stock": 7,
+    "imagen": "img/poleron.webp"
+  }
+]

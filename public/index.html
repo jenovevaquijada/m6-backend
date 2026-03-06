@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Mi Tienda E-commerce</title>
+    <link rel="stylesheet" href="style.css"> </head>
+<body>
+    <header>
+        <h1>🛒 Mi Tiendita</h1>
+    </header>
+
+    <main class="contenedor-principal">
+        <section class="seccion-productos">
+            <h2>Productos</h2>
+            <div id="contenedor-productos" class="grid-productos"></div>
+        </section>
+
+        <section id="carrito-seccion">
+            <h2>Tu Carrito</h2>
+            <ul id="lista-carrito"></ul>
+            <div id="contador-carrito">Carrito (0)</div>
+            <div id="resumen-compra">
+                <p>Total (con IVA 19%): $<span id="total">0</span></p>
+                <button onclick="realizarCompra()">Comprar ahora</button>
+            </div>
+        </section>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
